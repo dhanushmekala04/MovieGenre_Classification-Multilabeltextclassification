@@ -1,3 +1,4 @@
+###  **Multi-label text classification using DistilBERT model**
 This project involves building a **multi-label text classification model** using the **IMDB Movie Data**, where the goal is to classify movie descriptions into multiple genres. The project demonstrates the use of **Transformer-based models** (DistilBERT) for multi-label text classification, with a focus on natural language processing (NLP). Below is an outline of the project components and how it works:
 
 ### 1. **Data Preparation:**
