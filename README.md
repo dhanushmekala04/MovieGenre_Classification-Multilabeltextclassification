@@ -51,7 +51,7 @@ The project can be run locally by following these steps:
 The model is trained to predict multiple genres for movie descriptions with high accuracy. Once trained, it can classify any new movie description provided as input.
 
 ### Sample Output
-![Sample Output](images/sample_output.png)
+![Sample Output](https://github.com/dhanushmekala04/MovieGenre_Classification-Multilabeltextclassification/blob/main/Screenshot%202024-09-23%20155949.png)
 
 The output demonstrates the model's ability to accurately classify a movie description into multiple genres, reflecting its effectiveness in multi-label text classification.
 
