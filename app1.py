@@ -1,7 +1,6 @@
 
 import streamlit as st
 import pickle
-import torch
 from transformers import DistilBertTokenizer, DistilBertForSequenceClassification
 from sklearn.preprocessing import MultiLabelBinarizer
 import numpy as np
