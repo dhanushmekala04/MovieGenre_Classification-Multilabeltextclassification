@@ -1,4 +1,4 @@
-streamlit==1.25.0
+streamlit==1.24.0
 scikit-learn==1.2.2
 numpy==1.24.3
 torch==2.0.1
